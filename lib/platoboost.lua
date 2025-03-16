@@ -511,7 +511,7 @@ local lEncode, lDecode, lDigest = a3, aw, Z
 
 --! configuration
 local service = 2393 -- your service id, this is used to identify your service.
-local secret = "taki kurwa glupi nie jestem zeby klucz" -- make sure to obfuscate this if you want to ensure security.
+local secret = "taki kurwa glupi nie jestem zeby klucz leakowac" -- make sure to obfuscate this if you want to ensure security.
 local useNonce = true -- use a nonce to prevent replay attacks and request tampering.
 
 --! callbacks
