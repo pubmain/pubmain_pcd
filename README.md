@@ -9,3 +9,5 @@ potrzebujecie [darklua](https://darklua.com/)
 
 ```./pcd.sh```
 albo jak ktos nie moze to wklejcie komende do terminala
+
+a jak chcecie zeby byl DEBUG to musicie zmienic w pcd_config.jsonl DEBUG na true
